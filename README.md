@@ -14,7 +14,7 @@ For more details about the project and results, refer to **FINAL_CV_REPORT.pdf**
    ```bash
    cd Vehicle-detection
    ```
-3. Navigate to the project directory:
+3. Download and unzip the pre-trained model weights:
    ```bash
    wget -O model.zip "https://drive.google.com/uc?export=download&id=14gEC3AH4_1bTmWIJBAF9LK2wCk2AFM3g"
    unzip model.zip -d .
